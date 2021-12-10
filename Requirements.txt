@@ -1,0 +1,7 @@
+socket
+sys
+os
+subprocess
+bs4
+BeautifulSoup
+requests
